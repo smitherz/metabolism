@@ -1,0 +1,30 @@
+---
+title: "Crystal Lake Metabolism (update 20170125)"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    fig_caption: true
+---
+    
+    
+    
+### Figures:
+
+<div style="width:800px; height=800px">
+![](/Users/csmith/Desktop/Fig1.png)
+</div>
+Figure 1. Total Phosphorus concentration of the raw water sample (A), filtered water sample (B), and the particulate portion (TPraw - TPfiltered; C) for the upper mixed layer of Crystal Lake. Chlorophyll a concentration of the upper mixed layer (D). 
+
+
+<div style="width:800px; height=800px">
+![](/Users/csmith/Desktop/Fig1.png)
+</div>
+Figure 2. Relationship between GPP and Chlorophyll a in the upper mixed layer.
+
+
+<div style="width:900px; height=900px">
+![](/Users/csmith/Desktop/drivers_GPP.png)
+</div>
+Figure 3. GPP vs. drivers for 2011 (blue), 2012 (red), 2013 (orange), 2014 (green).
+
